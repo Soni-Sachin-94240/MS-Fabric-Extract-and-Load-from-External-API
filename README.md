@@ -61,6 +61,19 @@ Design a system to retrieve data from an external API and seamlessly integrate i
 
 
 - Step 4: Validate The Pipeline
+![6 PL Validate Pipeline](https://github.com/Soni-Sachin-94240/MS-Fabric-Extract-and-Load-from-External-API/assets/132342151/89826fb5-72a1-422d-9c1a-cbf58d090d0f)
+
 - Step 5: Run the Pipeline
-- Step 6: Observe Output - All the Activitie have captured in output and show the status pf each activity is success or failed, if activity is failed then click on little icon to show the error.
+- Step 6: Observe Output - All the Activitie have captured in output and show the Pipeline status of each activity is success or failed, if activity is failed then click on little icon to show the error.
+![7 PL Run the Pipeline](https://github.com/Soni-Sachin-94240/MS-Fabric-Extract-and-Load-from-External-API/assets/132342151/41b998bc-1718-45dc-b207-1870d953c258)
 - Step 7: Go to Lakehouse path which are mentioned in destination and check the JSON files stored in proper folder structured and check the data preview, If data preview not supported then your file format name was not in proper format with extension like 'filename.json'.
+![8 Destination Lakehouse](https://github.com/Soni-Sachin-94240/MS-Fabric-Extract-and-Load-from-External-API/assets/132342151/b95d15ac-7f9c-4523-9f8c-691ae6f6aa81)
+
+
+### Conclusion
+
+The integration of data from an external API into a lakehouse architecture using Microsoft Fabric technology offers a robust and scalable solution for modern data management needs. By leveraging data pipelines, we ensure the seamless flow of information from source to destination, enabling timely insights and informed decision-making.
+
+Furthermore, the implementation of a structured file folder system ensures organization and accessibility of data files within the lakehouse environment. With automated processes in place for extracting and storing data files, efficiency is maximized, reducing manual intervention and potential errors.
+
+Overall, this system provides a solid foundation for leveraging external data sources within the lakehouse architecture, empowering organizations to unlock the full potential of their data assets.
