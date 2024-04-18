@@ -22,10 +22,11 @@ Design a system to retrieve data from an external API and seamlessly integrate i
 - Step 3: Configure all required fields
 
   (a) General - Name, Description
-  
+
   (b) Source - Data Store Type (External) ,
   - Create new connection; Go to 'Generic Protocol -> REST (generic protocol)
   - Add Connection String (Base API URL)
+  
   (c) Destination - Data Store Type (Workspace)
   - Choose Lakehouse (Lakehouse or Warehouse)
   - Root Folder - File (because we need to data store in JSON file format)
