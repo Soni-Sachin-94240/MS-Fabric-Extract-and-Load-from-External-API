@@ -1,4 +1,4 @@
-# Extract and Load from External API to Lakehouse using Data Pipelines (Microsoft Fabric)
+# Extract and Load data from External API to Lakehouse using Data Pipelines (Microsoft Fabric)
 
 
 ## Problem Statement
